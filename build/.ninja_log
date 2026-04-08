@@ -1,0 +1,12 @@
+# ninja log v6
+14	7041	7973148265755365	CMakeFiles/matmul_benchmark.dir/src/main.cu.obj	cbeed0b5ff629972
+66	7508	7973148266283119	CMakeFiles/matmul_benchmark.dir/src/kernels/04_1d_blocktiling.cu.obj	24926ccd15b7a756
+40	11640	7973148266015418	CMakeFiles/matmul_benchmark.dir/src/kernels/01_naive.cu.obj	9cda0b8c1e1def82
+57	12110	7973148266183061	CMakeFiles/matmul_benchmark.dir/src/kernels/03_shared_mem_tiling.cu.obj	616594a4968241b4
+76	12352	7973148266377908	CMakeFiles/matmul_benchmark.dir/src/kernels/05_2d_blocktiling.cu.obj	7e0b9cce9fb3d757
+86	12405	7973148266483158	CMakeFiles/matmul_benchmark.dir/src/kernels/06_vectorized.cu.obj	5170c35e6c69e793
+30	13842	7973148265915385	CMakeFiles/matmul_benchmark.dir/src/cublas_ref.cu.obj	cee23274591ff57f
+48	16866	7973148266095496	CMakeFiles/matmul_benchmark.dir/src/kernels/02_global_mem_coalesce.cu.obj	faf0931789065307
+72	5964	7973149776241387	CMakeFiles/matmul_benchmark.dir/src/benchmark.cu.obj	a93b1e0482f6f2f3
+5965	7215	7973149835173166	CMakeFiles/matmul_benchmark.dir/cmake_device_link.obj	73c549a7a2ec5a26
+7215	7548	7973149847661823	matmul_benchmark.exe	80548c0b3f3c66c4
