@@ -1,0 +1,5 @@
+build/
+results/benchmark_results.md
+*.exe
+*.obj
+*.pdb
