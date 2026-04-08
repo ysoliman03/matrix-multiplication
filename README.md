@@ -1,4 +1,4 @@
-# CUDA Matrix Multiplication — From Naive to 43% of cuBLAS
+# CUDA Matrix Multiplication 
 
 Hand-written CUDA kernels optimized across 6 stages, benchmarked against NVIDIA's cuBLAS on real hardware. No CUTLASS, no template libraries, every kernel written from scratch to demonstrate deep understanding of GPU memory hierarchy, warp execution, and arithmetic intensity.
 
